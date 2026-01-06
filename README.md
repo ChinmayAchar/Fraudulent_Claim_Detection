@@ -118,7 +118,7 @@ Severity Mismatch: Claims reporting minor incidents but claiming major damage (h
 
 Demographics: Specific correlations were found with certain occupations and hobbies (e.g., cross-fit, chess).
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Text Mining: Apply NLP to claim narratives to find inconsistencies in incident descriptions.
 
