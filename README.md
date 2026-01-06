@@ -1,23 +1,23 @@
-🛡️ Insurance Claim Fraud Detection
-Authors: Chinmay H R & Shashank Vinod Chardeve
+# 🛡️ Insurance Claim Fraud Detection
+### Authors: Chinmay H R & Shashank Vinod Chardeve
 
-Project Type: Machine Learning / Classification
+##Project Type: Machine Learning / Classification
 
 Status: Completed
 
-📌 Project Overview
+### 📌 Project Overview
 Insurance fraud is a significant issue leading to massive financial losses and increased premiums. This project implements a machine learning pipeline to automate the detection of fraudulent insurance claims. By analyzing historical claims data, the system identifies patterns, anomalies, and risk factors to flag suspicious activities for manual review.
 
 
 
-📂 Repository Structure
+### 📂 Repository Structure
 Fraudulent_Claim_Detection_Starter_Chinmay_H_R_Shashank_Vinod_Chardeve.ipynb: The main Jupyter Notebook containing the end-to-end ML pipeline (Data cleaning, EDA, Feature Engineering, Modeling).
 
 Fraudulent_Claim_Detection...pdf: Project documentation and report.
 
 README.md: Project summary and instructions.
 
-🛠️ Technologies & Libraries
+### 🛠️ Technologies & Libraries
 The project is implemented in Python using the following libraries:
 
 Data Manipulation: pandas, numpy
@@ -30,7 +30,7 @@ Modules: model_selection, preprocessing, linear_model, ensemble, metrics, featur
 
 Resampling: imblearn (specifically RandomOverSampler)
 
-⚙️ Project Pipeline
+### ⚙️ Project Pipeline
 1. Data Preprocessing & Cleaning
 The raw data undergoes rigorous cleaning to prepare it for analysis:
 
@@ -103,7 +103,7 @@ Performance: Achieved 92% Accuracy in cross-validation with a Training F1 score 
 
 Feature Importance: Identified Total Claim Amount, Incident Timing, and Policy Duration as top drivers of fraud.
 
-📊 Key Findings
+### 📊 Key Findings
 The analysis revealed several strong indicators of fraud:
 
 
